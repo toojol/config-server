@@ -1,3 +1,10 @@
 print 'hello word!!!'
 
 print 'my name is asdfhasidfjas'
+
+
+show()
+{
+ string name = "aasdf";
+ pring (name);
+}
